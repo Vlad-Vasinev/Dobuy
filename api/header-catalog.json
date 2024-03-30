@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Смартфоны и гаджеты",
+    "href": "#smarfoniigadjeti",
+    "cards": ["api/products/product1.json", "api/products/product2.json"],
+    "image": "img/header/phone.jpg",
+    "subList": [
+      {
+        "name": "iPhone",
+        "href": "#Iphone",
+        "cards": ["api/products/product2.json", "api/products/product1.json"],
+        "image": "img/header/phone.jpg",
+        "subList": [
+          {
+            "name": "iPhone 15",
+            "href": "#Iphone15",
+            "image": "img/header/phone.jpg",
+            "cards": [
+              "api/products/product2.json",
+              "api/products/product2.json"
+            ]
+          },
+          {
+            "name": "iPhone 15 Plus",
+            "href": "#Iphone15P",
+            "image": "img/header/phone.jpg",
+            "cards": [
+              "api/products/product1.json",
+              "api/products/product1.json"
+            ]
+          },
+          {
+            "name": "iPhone 15 Pro",
+            "href": "#Iphone15Pro",
+            "image": "img/header/phone.jpg",
+            "cards": [
+              "api/products/product2.json",
+              "api/products/product2.json"
+            ]
+          },
+          {
+            "name": "iPhone 15 Pro Max",
+            "href": "#",
+            "image": "img/header/phone.jpg",
+            "cards": [
+              "api/products/product1.json",
+              "api/products/product1.json"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Android",
+        "href": "#Android",
+        "cards": ["api/products/product3.json", "api/products/product4.json"],
+        "image": "img/header/phone.jpg",
+        "subList": [
+          {
+            "image": "img/header/phone.jpg",
+            "name": "Android",
+            "href": "#AndroidSub"
+          }
+        ]
+      },
+      {
+        "name": "Смарт-часы",
+        "image": "img/header/phone.jpg",
+        "subList": [
+          { "image": "img/header/phone.jpg", "name": "Смарт-часы", "href": "#" }
+        ]
+      },
+      {
+        "name": "Наушники",
+        "image": "img/header/phone.jpg",
+        "subList": [
+          { "image": "img/header/phone.jpg", "name": "Наушники", "href": "#" }
+        ]
+      },
+      {
+        "name": "Аксессуары",
+        "image": "img/header/phone.jpg",
+        "subList": [
+          { "image": "img/header/phone.jpg", "name": "Аксессуары", "href": "#" }
+        ]
+      },
+      {
+        "name": "Колонки",
+        "image": "img/header/phone.jpg",
+        "subList": [
+          { "image": "img/header/phone.jpg", "name": "Колонки", "href": "#" }
+        ]
+      }
+    ],
+    "brands": [
+      { "img": "img/brands/logo1.png", "href": "#" },
+      { "img": "img/brands/logo2.png", "href": "#" },
+      { "img": "img/brands/logo3.png", "href": "#" },
+      { "img": "img/brands/logo4.png", "href": "#" },
+      { "img": "img/brands/logo5.png", "href": "#" }
+    ]
+  },
+  {
+    "name": "Смартфоны и гаджеты",
+    "href": "#smarfoniigadjeti",
+    "cards": ["api/products/product1.json", "api/products/product2.json"],
+    "image": "img/header/phone.jpg",
+    "subList": [
+      {
+        "name": "iPhone",
+        "href": "#Iphone",
+        "cards": ["api/products/product2.json", "api/products/product1.json"],
+        "image": "img/header/phone.jpg",
+        "subList": [
+          {
+            "name": "iPhone 15",
+            "href": "#Iphone15",
+            "image": "img/header/phone.jpg",
+            "cards": [
+              "api/products/product2.json",
+              "api/products/product2.json"
+            ]
+          },
+          {
+            "name": "iPhone 15 Plus",
+            "href": "#Iphone15P",
+            "image": "img/header/phone.jpg",
+            "cards": [
+              "api/products/product1.json",
+              "api/products/product1.json"
+            ]
+          },
+          {
+            "name": "iPhone 15 Pro",
+            "href": "#Iphone15Pro",
+            "image": "img/header/phone.jpg",
+            "cards": [
+              "api/products/product2.json",
+              "api/products/product2.json"
+            ]
+          },
+          {
+            "name": "iPhone 15 Pro Max",
+            "href": "#",
+            "image": "img/header/phone.jpg",
+            "cards": [
+              "api/products/product1.json",
+              "api/products/product1.json"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Android",
+        "href": "#Android",
+        "cards": ["api/products/product3.json", "api/products/product4.json"],
+        "image": "img/header/phone.jpg",
+        "subList": [
+          {
+            "image": "img/header/phone.jpg",
+            "name": "Android",
+            "href": "#AndroidSub"
+          }
+        ]
+      },
+      {
+        "name": "Смарт-часы",
+        "image": "img/header/phone.jpg",
+        "subList": [
+          { "image": "img/header/phone.jpg", "name": "Смарт-часы", "href": "#" }
+        ]
+      },
+      {
+        "name": "Наушники",
+        "image": "img/header/phone.jpg",
+        "subList": [
+          { "image": "img/header/phone.jpg", "name": "Наушники", "href": "#" }
+        ]
+      },
+      {
+        "name": "Аксессуары",
+        "image": "img/header/phone.jpg",
+        "subList": [
+          { "image": "img/header/phone.jpg", "name": "Аксессуары", "href": "#" }
+        ]
+      },
+      {
+        "name": "Колонки",
+        "image": "img/header/phone.jpg",
+        "subList": [
+          { "image": "img/header/phone.jpg", "name": "Колонки", "href": "#" }
+        ]
+      }
+    ],
+    "brands": [
+      { "img": "img/brands/logo1.png", "href": "#" },
+      { "img": "img/brands/logo2.png", "href": "#" },
+      { "img": "img/brands/logo3.png", "href": "#" },
+      { "img": "img/brands/logo4.png", "href": "#" },
+      { "img": "img/brands/logo5.png", "href": "#" }
+    ]
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "id": "0003",
+  "title": "Беспроводные наушники Apple AirPods Max, белые",
+  "price": {
+    "value": "119 999 ₽",
+    "discount": {
+      "old": "135 000 ₽",
+      "sale": "-15%"
+    }
+  },
+  "href": "#",
+  "badges": [
+    { "type": "new", "val": "NEW" },
+    { "type": "hit", "val": "HIT" }
+  ],
+  "images": [
+    "img/product/3/img0.png",
+    "img/product/3/img1.png",
+    "img/product/3/img2.png"
+  ]
+}

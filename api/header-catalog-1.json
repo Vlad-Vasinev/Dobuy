@@ -1,0 +1,282 @@
+[
+  {
+    "name": "Смартфоны и гаджеты",
+    
+    "subList": [
+      {
+        "name": "iPhone",
+        "subList": [
+          { "name": "iPhone 15" },
+          { "name": "iPhone 15 Plus" },
+          { "name": "iPhone 15 Pro" },
+          { "name": "iPhone 15 Pro Max" },
+          { "name": "iPhone 14 Pro" }
+        ]
+      },
+      {
+        "name": "Android",
+        "subList": [
+          { "name": "Google" },
+          { "name": "Samsung" },
+          { "name": "Xiaomi" },
+          { "name": "Huawei" }
+        ]
+      },
+      {
+        "name": "Смарт-часы",
+        "subList": [
+          { "name": "Apple Watch" },
+          { "name": "Apple Watch Series 9" },
+          { "name": "Apple Watch Ultra 2" },
+          { "name": "Apple Watch Hermes" },
+          { "name": "Ремешки для Apple Watch" },
+          { "name": "Samsung" },
+          { "name": "Android" }
+        ]
+      },
+      {
+        "name": "Наушники",
+        "subList": [
+          { "name": "Apple" },
+          { "name": "Беспроводные" },
+          { "name": "Beats" },
+          { "name": "Sony" },
+          { "name": "Bose" },
+          { "name": "bowers & wilkins" },
+          { "name": "Marshall" },
+          { "name": "Игровые наушники" }
+        ]
+      },
+      {
+        "name": "Аксессуары",
+        "subList": [
+          { "name": "MagSafe" },
+          { "name": "Чехлы" },
+          { "name": "AirTag" },
+          { "name": "Переходники и кабели" }
+        ]
+      },
+      {
+        "name": "Колонки",
+        "subList": [
+          { "name": "Для вечеринок" },
+          { "name": "С подсветкой" },
+          { "name": "Компактные" },
+          { "name": "JBL" },
+          { "name": "Marshall" },
+          { "name": "Sony" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ноутбуки и компьютеры",
+    "subList": [
+      {
+        "name": "Ноутбуки",
+        "subList": [
+          { "name": "Apple" },
+          { "name": "Asus" },
+          { "name": "HP" },
+          { "name": "Lenovo" },
+          { "name": "Игровые" },
+          { "name": "Для бизнеса" },
+          { "name": "Трансформеры" }
+        ]
+      },
+      {
+        "name": "Компьютеры",
+        "subList": [
+          { "name": "Apple" },
+          { "name": "Клавиатуры" },
+          { "name": "Мыши" }
+        ]
+      },
+      {
+        "name": "Мониторы",
+        "subList": [
+          { "name": "ASUS" },
+          { "name": "LG" },
+          { "name": "MSI" },
+          { "name": "Samsung" }
+        ]
+      },
+      {
+        "name": "Видеокарты",
+        "subList": [{ "name": "Nvidia" }, { "name": "AMD" }]
+      },
+      {
+        "name": "VR очки и комплекты",
+        "subList": [{ "name": "HTC" }, { "name": "Oculus" }, { "name": "Sony" }]
+      },
+      {
+        "name": "Принтеры",
+        "subList": [{ "name": "Canon" }, { "name": "HP" }, { "name": "Epson" }]
+      }
+    ]
+  },
+  {
+    "name": "Планшеты",
+    "subList": [
+      {
+        "name": "Apple",
+        "subList": [
+          { "name": "iPad Pro" },
+          { "name": "iPad Air" },
+          { "name": "iPad Mini" },
+          { "name": "iPad 10" }
+        ]
+      },
+      {
+        "name": "Android",
+        "subList": [
+          { "name": "Samsung" },
+          { "name": "Xiaomi" },
+          { "name": "Lenovo" }
+        ]
+      },
+      {
+        "name": "Аксессуары",
+        "subList": [
+          { "name": "Чехлы Apple" },
+          { "name": "Apple Pencil" },
+          { "name": "Клавиатуры для iPad" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Товары для дома",
+    "subList": [
+      {
+        "name": "Красота и уход",
+        "subList": [
+          { "name": "Фены" },
+          { "name": "Стайлеры" },
+          { "name": "Выпрямители" },
+          { "name": "Зубные щетки" }
+        ]
+      },
+      {
+        "name": "Бытовая техника",
+        "subList": [
+          { "name": "SMEG" },
+          { "name": "Пылесосы" },
+          { "name": "Очистка и увлажнение воздуха" },
+          { "name": "Для кухни" },
+          { "name": "Кофемашины и капсулы" },
+          { "name": "Мультиварки" },
+          { "name": "Электрогрили" }
+        ]
+      },
+      {
+        "name": "Аксессуары",
+        "subList": [
+          { "name": "Хранение" },
+          { "name": "Насадки" },
+          { "name": "Предметы интерьера" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Камеры",
+    "subList": [
+      {
+        "name": "Аксессуары для камер"
+      },
+      {
+        "name": "Беззеркальные фотоаппараты",
+        "subList": [
+          { "name": "Canon" },
+          { "name": "Nikon" },
+          { "name": "Panasonic" },
+          { "name": "Sony" }
+        ]
+      },
+      {
+        "name": "Зеркальные фотоаппараты",
+        "subList": [{ "name": "Canon" }, { "name": "Nikon" }]
+      },
+      {
+        "name": "Фотоаппараты мгновенной печати",
+        "subList": [
+          { "name": "Canon" },
+          { "name": "Fujifilm" },
+          { "name": "Kodak" }
+        ]
+      },
+      {
+        "name": "Экшен-камеры",
+        "subList": [
+          { "name": "DJI" },
+          { "name": "GoPro" },
+          { "name": "Insta360" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Игровые консоли",
+    "subList": [
+      {
+        "name": "PlayStation",
+        "subList": [
+          { "name": "Консоли PlayStation" },
+          { "name": "Аксессуары для PS5" },
+          { "name": "Игры для PS5" }
+        ]
+      },
+      {
+        "name": "Xbox",
+        "subList": [
+          { "name": "Консоли Xbox Series" },
+          { "name": "Аксессуары для XBOX" },
+          { "name": "Игры для Xbox" }
+        ]
+      },
+      {
+        "name": "Портативные",
+        "subList": [
+          { "name": "Valve Steam Deck" },
+          { "name": "Nintendo Switch" },
+          { "name": "Aya" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "TV и мультимедиа",
+    "subList": [
+      {
+        "name": "Телевизоры",
+        "subList": [
+          { "name": "Телевизоры" },
+          { "name": "4k" },
+          { "name": "OLED" }
+        ]
+      },
+      {
+        "name": "Саундбары",
+        "subList": [
+          { "name": "Bose" },
+          { "name": "Samsung" },
+          { "name": "Sony" }
+        ]
+      },
+      {
+        "name": "Проекторы",
+        "subList": [{ "name": "FullHD" }, { "name": "4K" }]
+      }
+    ]
+  },
+  {
+    "name": "Музыкальное оборудование",
+    "subList": [
+      {
+        "name": "Синтезаторы",
+        "subList": [{ "name": "Yamaha" }]
+      }
+    ]
+  }
+]
