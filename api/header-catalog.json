@@ -1,6 +1,6 @@
 [
   {
-    "name": "Смартфоны и гаджеты",
+    "name": "Smartphones and gadgets",
     "href": "#smarfoniigadjeti",
     "cards": ["api/products/product1.json", "api/products/product2.json"],
     "image": "img/header/phone.jpg",
@@ -63,28 +63,28 @@
         ]
       },
       {
-        "name": "Смарт-часы",
+        "name": "Smart watch",
         "image": "img/header/phone.jpg",
         "subList": [
           { "image": "img/header/phone.jpg", "name": "Смарт-часы", "href": "#" }
         ]
       },
       {
-        "name": "Наушники",
+        "name": "Headphones",
         "image": "img/header/phone.jpg",
         "subList": [
           { "image": "img/header/phone.jpg", "name": "Наушники", "href": "#" }
         ]
       },
       {
-        "name": "Аксессуары",
+        "name": "Accessories",
         "image": "img/header/phone.jpg",
         "subList": [
           { "image": "img/header/phone.jpg", "name": "Аксессуары", "href": "#" }
         ]
       },
       {
-        "name": "Колонки",
+        "name": "Columns",
         "image": "img/header/phone.jpg",
         "subList": [
           { "image": "img/header/phone.jpg", "name": "Колонки", "href": "#" }
@@ -100,7 +100,7 @@
     ]
   },
   {
-    "name": "Смартфоны и гаджеты",
+    "name": "Smartphones and gadgets",
     "href": "#smarfoniigadjeti",
     "cards": ["api/products/product1.json", "api/products/product2.json"],
     "image": "img/header/phone.jpg",
@@ -163,28 +163,28 @@
         ]
       },
       {
-        "name": "Смарт-часы",
+        "name": "Smart watch",
         "image": "img/header/phone.jpg",
         "subList": [
           { "image": "img/header/phone.jpg", "name": "Смарт-часы", "href": "#" }
         ]
       },
       {
-        "name": "Наушники",
+        "name": "Headphones",
         "image": "img/header/phone.jpg",
         "subList": [
           { "image": "img/header/phone.jpg", "name": "Наушники", "href": "#" }
         ]
       },
       {
-        "name": "Аксессуары",
+        "name": "Accessories",
         "image": "img/header/phone.jpg",
         "subList": [
           { "image": "img/header/phone.jpg", "name": "Аксессуары", "href": "#" }
         ]
       },
       {
-        "name": "Колонки",
+        "name": "Columns",
         "image": "img/header/phone.jpg",
         "subList": [
           { "image": "img/header/phone.jpg", "name": "Колонки", "href": "#" }
