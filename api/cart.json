@@ -3,11 +3,11 @@
     "clearTotal": "30 000 ₽",
     "salses": [
       {
-        "name": "Скидка",
+        "name": "Discount",
         "value": "-2 000 ₽"
       },
       {
-        "name": "Скидка за второй товар",
+        "name": "Discount for the second item",
         "value": "-3 000 ₽"
       }
     ],
@@ -17,7 +17,7 @@
     {
       "id": "0001",
       "amount": "1",
-      "title": "Смартфон Samsung Galaxy S23 Ultra 12/256 Гб, зеленый",
+      "title": "Smartphone Samsung Galaxy S23 Ultra 12/256 GB, green",
       "price": {
         "value": "119 999 ₽",
         "discount": {
@@ -30,7 +30,7 @@
     {
       "id": "0002",
       "amount": "1",
-      "title": "Смартфон Apple iPhone 15, 128 ГБ, розовый, 1 SIM + eSIM",
+      "title": "Smartphone Apple iPhone 15, 128 GB, pink, 1 SIM + eSIM",
       "price": {
         "value": "119 999 ₽",
         "discount": {
@@ -43,7 +43,7 @@
     {
       "id": "0003",
       "amount": "2",
-      "title": "Беспроводные наушники Apple AirPods Max, белые",
+      "title": "Apple AirPods Max Wireless Headphones, White",
       "price": {
         "value": "229 500 ₽",
         "discount": {
