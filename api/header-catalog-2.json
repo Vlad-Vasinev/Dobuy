@@ -1,7 +1,7 @@
 {
   "list": [
     {
-      "name": "Смартфоны и гаджеты",
+      "name": "Smartphones and gadgets",
       "href": "#0",
       "cards": ["api/products/product1.json", "api/products/product2.json"],
       "image": "img/header/phone.jpg",
@@ -104,7 +104,7 @@
           ]
         },
         {
-          "name": "Смарт-часы",
+          "name": "Smart watch",
           "href": "#12",
           "cards": ["api/products/product1.json", "api/products/product2.json"],
           "image": "img/header/phone.jpg",
@@ -146,7 +146,7 @@
               "image": "img/header/phone.jpg"
             },
             {
-              "name": "Ремешки для Apple Watch",
+              "name": "Apple Watch Straps",
               "href": "#17",
               "cards": [
                 "api/products/product1.json",
@@ -175,7 +175,7 @@
           ]
         },
         {
-          "name": "Наушники",
+          "name": "Headphones",
           "href": "#20",
           "cards": ["api/products/product1.json", "api/products/product2.json"],
           "image": "img/header/phone.jpg",
@@ -190,7 +190,7 @@
               "image": "img/header/phone.jpg"
             },
             {
-              "name": "Беспроводные",
+              "name": "Wireless",
               "href": "#22",
               "cards": [
                 "api/products/product1.json",
@@ -244,7 +244,7 @@
               "image": "img/header/phone.jpg"
             },
             {
-              "name": "Игровые наушники",
+              "name": "Gaming Headphones",
               "href": "#28",
               "cards": [
                 "api/products/product1.json",
@@ -255,7 +255,7 @@
           ]
         },
         {
-          "name": "Аксессуары",
+          "name": "Accessories",
           "href": "#29",
           "cards": ["api/products/product1.json", "api/products/product2.json"],
           "image": "img/header/phone.jpg",
@@ -270,7 +270,7 @@
               "image": "img/header/phone.jpg"
             },
             {
-              "name": "Чехлы",
+              "name": "Covers",
               "href": "#31",
               "cards": [
                 "api/products/product1.json",
@@ -288,7 +288,7 @@
               "image": "img/header/phone.jpg"
             },
             {
-              "name": "Переходники и кабели",
+              "name": "Adapters and cables",
               "href": "#33",
               "cards": [
                 "api/products/product1.json",
@@ -299,13 +299,13 @@
           ]
         },
         {
-          "name": "Колонки",
+          "name": "Columns",
           "href": "#34",
           "cards": ["api/products/product1.json", "api/products/product2.json"],
           "image": "img/header/phone.jpg",
           "subList": [
             {
-              "name": "Для вечеринок",
+              "name": "For parties",
               "href": "#35",
               "cards": [
                 "api/products/product1.json",
@@ -314,7 +314,7 @@
               "image": "img/header/phone.jpg"
             },
             {
-              "name": "С подсветкой",
+              "name": "With backlight",
               "href": "#36",
               "cards": [
                 "api/products/product1.json",
@@ -323,7 +323,7 @@
               "image": "img/header/phone.jpg"
             },
             {
-              "name": "Компактные",
+              "name": "Compact",
               "href": "#37",
               "cards": [
                 "api/products/product1.json",
@@ -370,13 +370,13 @@
       ]
     },
     {
-      "name": "Ноутбуки и компьютеры",
+      "name": "Laptops and computers",
       "href": "#41",
       "cards": ["api/products/product1.json", "api/products/product2.json"],
       "image": "img/header/phone.jpg",
       "subList": [
         {
-          "name": "Ноутбуки",
+          "name": "Laptops",
           "href": "#42",
           "cards": ["api/products/product1.json", "api/products/product2.json"],
           "image": "img/header/phone.jpg",
@@ -418,7 +418,7 @@
               "image": "img/header/phone.jpg"
             },
             {
-              "name": "Игровые",
+              "name": "Gaming",
               "href": "#47",
               "cards": [
                 "api/products/product1.json",
@@ -427,7 +427,7 @@
               "image": "img/header/phone.jpg"
             },
             {
-              "name": "Для бизнеса",
+              "name": "For business",
               "href": "#48",
               "cards": [
                 "api/products/product1.json",
@@ -436,7 +436,7 @@
               "image": "img/header/phone.jpg"
             },
             {
-              "name": "Трансформеры",
+              "name": "Transformers",
               "href": "#49",
               "cards": [
                 "api/products/product1.json",
@@ -447,7 +447,7 @@
           ]
         },
         {
-          "name": "Компьютеры",
+          "name": "Computers",
           "href": "#50",
           "cards": ["api/products/product1.json", "api/products/product2.json"],
           "image": "img/header/phone.jpg",
@@ -462,7 +462,7 @@
               "image": "img/header/phone.jpg"
             },
             {
-              "name": "Клавиатуры",
+              "name": "Keyboards",
               "href": "#52",
               "cards": [
                 "api/products/product1.json",
@@ -471,7 +471,7 @@
               "image": "img/header/phone.jpg"
             },
             {
-              "name": "Мыши",
+              "name": "Mouse",
               "href": "#53",
               "cards": [
                 "api/products/product1.json",
@@ -482,7 +482,7 @@
           ]
         },
         {
-          "name": "Мониторы",
+          "name": "Monitors",
           "href": "#54",
           "cards": ["api/products/product1.json", "api/products/product2.json"],
           "image": "img/header/phone.jpg",
@@ -526,7 +526,7 @@
           ]
         },
         {
-          "name": "Видеокарты",
+          "name": "Video cards",
           "href": "#59",
           "cards": ["api/products/product1.json", "api/products/product2.json"],
           "image": "img/header/phone.jpg",
@@ -552,7 +552,7 @@
           ]
         },
         {
-          "name": "VR очки и комплекты",
+          "name": "VR glasses and kits",
           "href": "#62",
           "cards": ["api/products/product1.json", "api/products/product2.json"],
           "image": "img/header/phone.jpg",
@@ -587,7 +587,7 @@
           ]
         },
         {
-          "name": "Принтеры",
+          "name": "Printers",
           "href": "#66",
           "cards": ["api/products/product1.json", "api/products/product2.json"],
           "image": "img/header/phone.jpg",
@@ -631,7 +631,7 @@
       ]
     },
     {
-      "name": "Планшеты",
+      "name": "Tablets",
       "href": "#70",
       "cards": ["api/products/product1.json", "api/products/product2.json"],
       "image": "img/header/phone.jpg",
@@ -716,13 +716,13 @@
           ]
         },
         {
-          "name": "Аксессуары",
+          "name": "Accessories",
           "href": "#80",
           "cards": ["api/products/product1.json", "api/products/product2.json"],
           "image": "img/header/phone.jpg",
           "subList": [
             {
-              "name": "Чехлы Apple",
+              "name": "Covers Apple",
               "href": "#81",
               "cards": [
                 "api/products/product1.json",
@@ -740,7 +740,7 @@
               "image": "img/header/phone.jpg"
             },
             {
-              "name": "Клавиатуры для iPad",
+              "name": "Keyboards для iPad",
               "href": "#83",
               "cards": [
                 "api/products/product1.json",
@@ -760,19 +760,19 @@
       ]
     },
     {
-      "name": "Товары для дома",
+      "name": "Household goods",
       "href": "#84",
       "cards": ["api/products/product1.json", "api/products/product2.json"],
       "image": "img/header/phone.jpg",
       "subList": [
         {
-          "name": "Красота и уход",
+          "name": "Beauty and care",
           "href": "#85",
           "cards": ["api/products/product1.json", "api/products/product2.json"],
           "image": "img/header/phone.jpg",
           "subList": [
             {
-              "name": "Фены",
+              "name": "Hair dryers",
               "href": "#86",
               "cards": [
                 "api/products/product1.json",
@@ -781,7 +781,7 @@
               "image": "img/header/phone.jpg"
             },
             {
-              "name": "Стайлеры",
+              "name": "Stylers",
               "href": "#87",
               "cards": [
                 "api/products/product1.json",
@@ -790,7 +790,7 @@
               "image": "img/header/phone.jpg"
             },
             {
-              "name": "Выпрямители",
+              "name": "Rectifiers",
               "href": "#88",
               "cards": [
                 "api/products/product1.json",
@@ -799,7 +799,7 @@
               "image": "img/header/phone.jpg"
             },
             {
-              "name": "Зубные щетки",
+              "name": "Toothbrushes",
               "href": "#89",
               "cards": [
                 "api/products/product1.json",
@@ -810,7 +810,7 @@
           ]
         },
         {
-          "name": "Бытовая техника",
+          "name": "Household appliances",
           "href": "#90",
           "cards": ["api/products/product1.json", "api/products/product2.json"],
           "image": "img/header/phone.jpg",
@@ -825,7 +825,7 @@
               "image": "img/header/phone.jpg"
             },
             {
-              "name": "Пылесосы",
+              "name": "Vacuum cleaners",
               "href": "#92",
               "cards": [
                 "api/products/product1.json",
@@ -834,7 +834,7 @@
               "image": "img/header/phone.jpg"
             },
             {
-              "name": "Очистка и увлажнение воздуха",
+              "name": "Air purification and humidification",
               "href": "#93",
               "cards": [
                 "api/products/product1.json",
@@ -843,7 +843,7 @@
               "image": "img/header/phone.jpg"
             },
             {
-              "name": "Для кухни",
+              "name": "For the kitchen",
               "href": "#94",
               "cards": [
                 "api/products/product1.json",
@@ -852,7 +852,7 @@
               "image": "img/header/phone.jpg"
             },
             {
-              "name": "Кофемашины и капсулы",
+              "name": "Coffee machines and capsules",
               "href": "#95",
               "cards": [
                 "api/products/product1.json",
@@ -861,7 +861,7 @@
               "image": "img/header/phone.jpg"
             },
             {
-              "name": "Мультиварки",
+              "name": "Multicookers",
               "href": "#96",
               "cards": [
                 "api/products/product1.json",
@@ -870,7 +870,7 @@
               "image": "img/header/phone.jpg"
             },
             {
-              "name": "Электрогрили",
+              "name": "Electric grills",
               "href": "#97",
               "cards": [
                 "api/products/product1.json",
@@ -881,13 +881,13 @@
           ]
         },
         {
-          "name": "Аксессуары",
+          "name": "Accessories",
           "href": "#98",
           "cards": ["api/products/product1.json", "api/products/product2.json"],
           "image": "img/header/phone.jpg",
           "subList": [
             {
-              "name": "Хранение",
+              "name": "Storage",
               "href": "#99",
               "cards": [
                 "api/products/product1.json",
@@ -896,7 +896,7 @@
               "image": "img/header/phone.jpg"
             },
             {
-              "name": "Насадки",
+              "name": "Nozzles",
               "href": "#100",
               "cards": [
                 "api/products/product1.json",
@@ -905,7 +905,7 @@
               "image": "img/header/phone.jpg"
             },
             {
-              "name": "Предметы интерьера",
+              "name": "Interior items",
               "href": "#101",
               "cards": [
                 "api/products/product1.json",
@@ -925,16 +925,16 @@
       ]
     },
     {
-      "name": "Камеры",
+      "name": "Cameras",
       "href": "#102",
       "cards": ["api/products/product1.json", "api/products/product2.json"],
       "image": "img/header/phone.jpg",
       "subList": [
         {
-          "name": "Аксессуары для камер"
+          "name": "Camera Accessories"
         },
         {
-          "name": "Беззеркальные фотоаппараты",
+          "name": "Mirrorless cameras",
           "href": "#103",
           "cards": ["api/products/product1.json", "api/products/product2.json"],
           "image": "img/header/phone.jpg",
@@ -978,7 +978,7 @@
           ]
         },
         {
-          "name": "Зеркальные фотоаппараты",
+          "name": "SLR cameras",
           "href": "#108",
           "cards": ["api/products/product1.json", "api/products/product2.json"],
           "image": "img/header/phone.jpg",
@@ -1004,7 +1004,7 @@
           ]
         },
         {
-          "name": "Фотоаппараты мгновенной печати",
+          "name": "Instant cameras",
           "href": "#111",
           "cards": ["api/products/product1.json", "api/products/product2.json"],
           "image": "img/header/phone.jpg",
@@ -1039,7 +1039,7 @@
           ]
         },
         {
-          "name": "Экшен-камеры",
+          "name": "Action cameras",
           "href": "#115",
           "cards": ["api/products/product1.json", "api/products/product2.json"],
           "image": "img/header/phone.jpg",
@@ -1083,7 +1083,7 @@
       ]
     },
     {
-      "name": "Игровые консоли",
+      "name": "Game consoles",
       "href": "#119",
       "cards": ["api/products/product1.json", "api/products/product2.json"],
       "image": "img/header/phone.jpg",
@@ -1095,7 +1095,7 @@
           "image": "img/header/phone.jpg",
           "subList": [
             {
-              "name": "Консоли PlayStation",
+              "name": "Consoles PlayStation",
               "href": "#121",
               "cards": [
                 "api/products/product1.json",
@@ -1104,7 +1104,7 @@
               "image": "img/header/phone.jpg"
             },
             {
-              "name": "Аксессуары для PS5",
+              "name": "Accessories для PS5",
               "href": "#122",
               "cards": [
                 "api/products/product1.json",
@@ -1113,7 +1113,7 @@
               "image": "img/header/phone.jpg"
             },
             {
-              "name": "Игры для PS5",
+              "name": "Games for PS5",
               "href": "#123",
               "cards": [
                 "api/products/product1.json",
@@ -1130,7 +1130,7 @@
           "image": "img/header/phone.jpg",
           "subList": [
             {
-              "name": "Консоли Xbox Series",
+              "name": "Consoles Xbox Series",
               "href": "#125",
               "cards": [
                 "api/products/product1.json",
@@ -1139,7 +1139,7 @@
               "image": "img/header/phone.jpg"
             },
             {
-              "name": "Аксессуары для XBOX",
+              "name": "Accessories для XBOX",
               "href": "#126",
               "cards": [
                 "api/products/product1.json",
@@ -1148,7 +1148,7 @@
               "image": "img/header/phone.jpg"
             },
             {
-              "name": "Игры для Xbox",
+              "name": "Games для Xbox",
               "href": "#127",
               "cards": [
                 "api/products/product1.json",
@@ -1159,7 +1159,7 @@
           ]
         },
         {
-          "name": "Портативные",
+          "name": "Portable",
           "href": "#128",
           "cards": ["api/products/product1.json", "api/products/product2.json"],
           "image": "img/header/phone.jpg",
@@ -1203,19 +1203,19 @@
       ]
     },
     {
-      "name": "TV и мультимедиа",
+      "name": "TV and multimedia",
       "href": "#132",
       "cards": ["api/products/product1.json", "api/products/product2.json"],
       "image": "img/header/phone.jpg",
       "subList": [
         {
-          "name": "Телевизоры",
+          "name": "Televisions",
           "href": "#133",
           "cards": ["api/products/product1.json", "api/products/product2.json"],
           "image": "img/header/phone.jpg",
           "subList": [
             {
-              "name": "Телевизоры",
+              "name": "Televisions",
               "href": "#134",
               "cards": [
                 "api/products/product1.json",
@@ -1244,7 +1244,7 @@
           ]
         },
         {
-          "name": "Саундбары",
+          "name": "Soundbars",
           "href": "#137",
           "cards": ["api/products/product1.json", "api/products/product2.json"],
           "image": "img/header/phone.jpg",
@@ -1279,7 +1279,7 @@
           ]
         },
         {
-          "name": "Проекторы",
+          "name": "Projectors",
           "href": "#141",
           "cards": ["api/products/product1.json", "api/products/product2.json"],
           "image": "img/header/phone.jpg",
@@ -1314,13 +1314,13 @@
       ]
     },
     {
-      "name": "Музыкальное оборудование",
+      "name": "Musical equipment",
       "href": "#144",
       "cards": ["api/products/product1.json", "api/products/product2.json"],
       "image": "img/header/phone.jpg",
       "subList": [
         {
-          "name": "Синтезаторы",
+          "name": "Synthesizers",
           "href": "#145",
           "cards": ["api/products/product1.json", "api/products/product2.json"],
           "image": "img/header/phone.jpg",
@@ -1346,7 +1346,7 @@
       ]
     },
     {
-      "name": "Новинки", 
+      "name": "New items", 
       "href": "#147",
       "image": "img/header/new.jpg",
       "special": {
@@ -1356,7 +1356,7 @@
       }
     },
     {
-      "name": "Акции", 
+      "name": "Stock", 
       "href": "#148",
       "image": "img/header/sale.jpg",
       "special": {
