@@ -1,6 +1,6 @@
 [
   {
-    "name": "Смартфоны и гаджеты",
+    "name": "Smartphones and gadgets",
     
     "subList": [
       {
@@ -23,45 +23,45 @@
         ]
       },
       {
-        "name": "Смарт-часы",
+        "name": "Smart watch",
         "subList": [
           { "name": "Apple Watch" },
           { "name": "Apple Watch Series 9" },
           { "name": "Apple Watch Ultra 2" },
           { "name": "Apple Watch Hermes" },
-          { "name": "Ремешки для Apple Watch" },
+          { "name": "Apple Watch Straps" },
           { "name": "Samsung" },
           { "name": "Android" }
         ]
       },
       {
-        "name": "Наушники",
+        "name": "Headphones",
         "subList": [
           { "name": "Apple" },
-          { "name": "Беспроводные" },
+          { "name": "Wireless" },
           { "name": "Beats" },
           { "name": "Sony" },
           { "name": "Bose" },
           { "name": "bowers & wilkins" },
           { "name": "Marshall" },
-          { "name": "Игровые наушники" }
+          { "name": "Gaming Headphones" }
         ]
       },
       {
-        "name": "Аксессуары",
+        "name": "Accessories",
         "subList": [
           { "name": "MagSafe" },
-          { "name": "Чехлы" },
+          { "name": "Covers" },
           { "name": "AirTag" },
-          { "name": "Переходники и кабели" }
+          { "name": "Adapters and cables" }
         ]
       },
       {
-        "name": "Колонки",
+        "name": "Columns",
         "subList": [
-          { "name": "Для вечеринок" },
-          { "name": "С подсветкой" },
-          { "name": "Компактные" },
+          { "name": "For parties" },
+          { "name": "With backlight" },
+          { "name": "Compact" },
           { "name": "JBL" },
           { "name": "Marshall" },
           { "name": "Sony" }
@@ -70,30 +70,30 @@
     ]
   },
   {
-    "name": "Ноутбуки и компьютеры",
+    "name": "Laptops and computers",
     "subList": [
       {
-        "name": "Ноутбуки",
+        "name": "Laptops",
         "subList": [
           { "name": "Apple" },
           { "name": "Asus" },
           { "name": "HP" },
           { "name": "Lenovo" },
-          { "name": "Игровые" },
-          { "name": "Для бизнеса" },
-          { "name": "Трансформеры" }
+          { "name": "Gaming" },
+          { "name": "For business" },
+          { "name": "Transformers" }
         ]
       },
       {
-        "name": "Компьютеры",
+        "name": "Computers",
         "subList": [
           { "name": "Apple" },
-          { "name": "Клавиатуры" },
-          { "name": "Мыши" }
+          { "name": "Keyboards" },
+          { "name": "Mice" }
         ]
       },
       {
-        "name": "Мониторы",
+        "name": "Monitors",
         "subList": [
           { "name": "ASUS" },
           { "name": "LG" },
@@ -102,21 +102,21 @@
         ]
       },
       {
-        "name": "Видеокарты",
+        "name": "Video cards",
         "subList": [{ "name": "Nvidia" }, { "name": "AMD" }]
       },
       {
-        "name": "VR очки и комплекты",
+        "name": "VR glasses and kits",
         "subList": [{ "name": "HTC" }, { "name": "Oculus" }, { "name": "Sony" }]
       },
       {
-        "name": "Принтеры",
+        "name": "Printers",
         "subList": [{ "name": "Canon" }, { "name": "HP" }, { "name": "Epson" }]
       }
     ]
   },
   {
-    "name": "Планшеты",
+    "name": "Tablets",
     "subList": [
       {
         "name": "Apple",
@@ -136,57 +136,57 @@
         ]
       },
       {
-        "name": "Аксессуары",
+        "name": "Accessories",
         "subList": [
-          { "name": "Чехлы Apple" },
+          { "name": "Apple Cases" },
           { "name": "Apple Pencil" },
-          { "name": "Клавиатуры для iPad" }
+          { "name": "Keyboards for iPad" }
         ]
       }
     ]
   },
   {
-    "name": "Товары для дома",
+    "name": "Household goods",
     "subList": [
       {
-        "name": "Красота и уход",
+        "name": "Beauty and care",
         "subList": [
-          { "name": "Фены" },
-          { "name": "Стайлеры" },
-          { "name": "Выпрямители" },
-          { "name": "Зубные щетки" }
+          { "name": "Hair dryers" },
+          { "name": "Stylers" },
+          { "name": "Rectifiers" },
+          { "name": "Toothbrushes" }
         ]
       },
       {
-        "name": "Бытовая техника",
+        "name": "Household appliances",
         "subList": [
           { "name": "SMEG" },
-          { "name": "Пылесосы" },
-          { "name": "Очистка и увлажнение воздуха" },
-          { "name": "Для кухни" },
-          { "name": "Кофемашины и капсулы" },
-          { "name": "Мультиварки" },
-          { "name": "Электрогрили" }
+          { "name": "Vacuum cleaners" },
+          { "name": "Air purification and humidification" },
+          { "name": "For the kitchen" },
+          { "name": "Coffee machines and capsules" },
+          { "name": "Multicookers" },
+          { "name": "Electric grills" }
         ]
       },
       {
-        "name": "Аксессуары",
+        "name": "Accessories",
         "subList": [
-          { "name": "Хранение" },
-          { "name": "Насадки" },
-          { "name": "Предметы интерьера" }
+          { "name": "Storage" },
+          { "name": "Nozzles" },
+          { "name": "Interior items" }
         ]
       }
     ]
   },
   {
-    "name": "Камеры",
+    "name": "Cameras",
     "subList": [
       {
-        "name": "Аксессуары для камер"
+        "name": "Accessories for cameras"
       },
       {
-        "name": "Беззеркальные фотоаппараты",
+        "name": "Mirrorless cameras",
         "subList": [
           { "name": "Canon" },
           { "name": "Nikon" },
@@ -195,11 +195,11 @@
         ]
       },
       {
-        "name": "Зеркальные фотоаппараты",
+        "name": "SLR cameras",
         "subList": [{ "name": "Canon" }, { "name": "Nikon" }]
       },
       {
-        "name": "Фотоаппараты мгновенной печати",
+        "name": "Instant cameras",
         "subList": [
           { "name": "Canon" },
           { "name": "Fujifilm" },
@@ -207,7 +207,7 @@
         ]
       },
       {
-        "name": "Экшен-камеры",
+        "name": "Action cameras",
         "subList": [
           { "name": "DJI" },
           { "name": "GoPro" },
@@ -217,26 +217,26 @@
     ]
   },
   {
-    "name": "Игровые консоли",
+    "name": "Game consoles",
     "subList": [
       {
         "name": "PlayStation",
         "subList": [
-          { "name": "Консоли PlayStation" },
-          { "name": "Аксессуары для PS5" },
-          { "name": "Игры для PS5" }
+          { "name": "PlayStation Consoles" },
+          { "name": "Accessories для PS5" },
+          { "name": "Games for PS5" }
         ]
       },
       {
         "name": "Xbox",
         "subList": [
-          { "name": "Консоли Xbox Series" },
-          { "name": "Аксессуары для XBOX" },
-          { "name": "Игры для Xbox" }
+          { "name": "Xbox Series Consoles" },
+          { "name": "Accessories for XBOX" },
+          { "name": "Игры for Xbox" }
         ]
       },
       {
-        "name": "Портативные",
+        "name": "Portable",
         "subList": [
           { "name": "Valve Steam Deck" },
           { "name": "Nintendo Switch" },
@@ -246,18 +246,18 @@
     ]
   },
   {
-    "name": "TV и мультимедиа",
+    "name": "TV and multimedia",
     "subList": [
       {
-        "name": "Телевизоры",
+        "name": "Televisions",
         "subList": [
-          { "name": "Телевизоры" },
+          { "name": "Televisions" },
           { "name": "4k" },
           { "name": "OLED" }
         ]
       },
       {
-        "name": "Саундбары",
+        "name": "Soundbars",
         "subList": [
           { "name": "Bose" },
           { "name": "Samsung" },
@@ -265,16 +265,16 @@
         ]
       },
       {
-        "name": "Проекторы",
+        "name": "Projectors",
         "subList": [{ "name": "FullHD" }, { "name": "4K" }]
       }
     ]
   },
   {
-    "name": "Музыкальное оборудование",
+    "name": "Musical equipment",
     "subList": [
       {
-        "name": "Синтезаторы",
+        "name": "Synthesizers",
         "subList": [{ "name": "Yamaha" }]
       }
     ]
