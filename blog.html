@@ -102,7 +102,7 @@
           <div class="hdr-drop__search">
             <form class="search-field" action="https://google.com/search">
               <div class="search-field__input"> 
-                <input minlength="1" required="required" type="search" name="q" placeholder="Хочу найти"/>
+                <input minlength="1" required="required" type="search" name="q" placeholder="I want to find"/>
               </div>
               <button class="search-field__enter" type="submit">
                 <svg class="sprite-icon">
@@ -354,7 +354,7 @@
         <div class="search-inner__search">
           <form class="search-field" action="https://google.com/search">
             <div class="search-field__input"> 
-              <input minlength="1" required="required" type="search" name="q" placeholder="Хочу найти"/>
+              <input minlength="1" required="required" type="search" name="q" placeholder="I want to find"/>
             </div>
             <button class="search-field__enter" type="submit">
               <svg class="sprite-icon">
@@ -397,7 +397,7 @@
           <div class="flat-prod-cart-container mini-cart__cards"></div>
         </div>
         <div class="mini-cart__section mini-cart__section_price">
-          <div class="h2">Сумма заказа</div>
+          <div class="h2">Order amount</div>
           <div class="summary-price">
             <div class="h5 summary-price__item summary-price__item_clear"><span>Cost of goods</span><span></span></div>
             <div class="h5 summary-price__item summary-price__item_sale"><span></span><span></span></div>
@@ -442,7 +442,7 @@
               <div class="auth-modal-form__field">
                 <div class="ui-input ui-input_label">
                   <input type="text" name="login" required="required"/>
-                  <label class="ui-input__float-label" for="login">Введите телефон или email
+                  <label class="ui-input__float-label" for="login">Введите Telephone или email
                   </label>
                 </div>
               </div>
@@ -464,11 +464,11 @@
                 </div>
               </div>
               <div class="auth-modal-form__field">
-                <button class="hl h6 auth-modal__pass-res" open-step="password-recovery" type="button">Я не помню пароль</button>
+                <button class="hl h6 auth-modal__pass-res" open-step="password-recovery" type="button">I don't remember the password</button>
               </div>
               <div class="auth-modal-form__buttons">
-                <button class="button" type="submit">Войти</button>
-                <div class="button button_hollow" open-step="registration">зарегистрироваться</div>
+                <button class="button" type="submit">Login</button>
+                <div class="button button_hollow" open-step="registration">register</div>
               </div>
             </form>
           </div>
@@ -480,18 +480,18 @@
             </svg>
           </div>
           <div class="auth-modal__step-inner">
-            <div class="h1">Восстановление пароля</div>
-            <p class="h6">Укажите адрес электронной почты, который вы использовали при оформлении заказов в DoBuy. Мы вышлем вам инструкцию по восстановлению пароля</p>
+            <div class="h1">Password recovery</div>
+            <p class="h6">Enter the email address you used when placing orders on DoBuy. We will send you instructions on how to reset your password</p>
             <form class="auth-modal-form" data-action="http://localhost:8080/password-reset" name="password-reset" noValidate>
               <div class="auth-modal-form__field">
                 <div class="ui-input ui-input_label">
                   <input type="email" name="email" required="required"/>
-                  <label class="ui-input__float-label" for="email">Введите свой e–mail
+                  <label class="ui-input__float-label" for="email">Enter your e-mail
                   </label>
                 </div>
               </div>
               <div class="auth-modal-form__buttons">
-                <button class="button" type="submit">Восстановить</button>
+                <button class="button" type="submit">Restore</button>
               </div>
             </form>
           </div>
@@ -503,8 +503,8 @@
             </svg>
           </div>
           <div class="auth-modal__step-inner">
-            <div class="h1">Восстановление пароля</div>
-            <p class="h6">Ссылка для восстановления пароля отправлена <br/>на ваш e-mail. Проверьте почту.</p>
+            <div class="h1">Password recovery</div>
+            <p class="h6">Password recovery link sent <br/>to your e-mail. Check your mail.</p>
           </div>
         </div>
         <div class="modal__step auth-modal__step" step-name="code-check">
@@ -514,9 +514,9 @@
             </svg>
           </div>
           <div class="auth-modal__step-inner">
-            <div class="h1">Подтвердите телефон</div>
+            <div class="h1">Confirm your phone number</div>
             <p class="h3 auth-modal-form__entered-tel">+7 (999) 999-99-99</p>
-            <p class="h6">Введите код из СМС</p>
+            <p class="h6">Enter the code from the SMS</p>
             <form class="auth-modal-form" data-action="http://localhost:8080/code" name="code-check">
               <div class="auth-modal-form__field">
                 <div class="ui-input ui-input_code">
@@ -524,11 +524,11 @@
                 </div>
               </div>
               <div class="auth-modal-form__field auth-modal-form__resend-code">
-                <p class="h6">Код отправлен, запросить повторный можно через <span class="timer"> </span> секунд</p>
-                <button class="hl h6" name="resend-code" type="button">Отправить код повторно</button>
+                <p class="h6">The code has been sent, you can request a repeat one via <span class="timer"> </span> seconds</p>
+                <button class="hl h6" name="resend-code" type="button">Resend code</button>
               </div>
               <div class="auth-modal-form__buttons">
-                <button class="button" type="submit">Подтвердить</button>
+                <button class="button" type="submit">Confirm</button>
               </div>
             </form>
           </div>
@@ -540,34 +540,34 @@
             </svg>
           </div>
           <div class="auth-modal__step-inner">
-            <div class="h1">Регистрация в DoBuy</div>
-            <p class="h6"><span>Уже есть аккаунт? </span><span class="hl" open-step="auth">Войдите</span></p>
+            <div class="h1">Registration в DoBuy</div>
+            <p class="h6"><span>Уже есть аккаунт? </span><span class="hl" open-step="auth">Login</span></p>
             <form class="auth-modal-form" data-action="/register" name="registration" noValidate>
               <div class="auth-modal-form__field">
                 <div class="ui-input ui-input_label">
                   <input type="text" name="name" required="required"/>
-                  <label class="ui-input__float-label" for="name">Введите свое имя
+                  <label class="ui-input__float-label" for="name">Enter your name
                   </label>
                 </div>
               </div>
               <div class="auth-modal-form__field">
                 <div class="ui-input ui-input_label">
                   <input type="email" name="email" required="required"/>
-                  <label class="ui-input__float-label" for="email">Введите свой e–mail
+                  <label class="ui-input__float-label" for="email">Enter your e-mail
                   </label>
                 </div>
               </div>
               <div class="auth-modal-form__field">
                 <div class="ui-input ui-input_label">
                   <input type="tel" name="tel" required="required"/>
-                  <label class="ui-input__float-label" for="tel">Телефон
+                  <label class="ui-input__float-label" for="tel">Telephone
                   </label>
                 </div>
               </div>
               <div class="auth-modal-form__field">
                 <div class="ui-input ui-input_label" js-password-field="js-password-field">
                   <input type="password" name="password" required="required"/>
-                  <label class="ui-input__float-label" for="password">Придумайте пароль
+                  <label class="ui-input__float-label" for="password">Think of a password
                   </label>
                   <div class="ui-input__toggle-pass" icon-tgl-trg="icon-tgl-trg">
                     <svg icon-tgl-crt="icon-tgl-crt">
@@ -584,7 +584,7 @@
               <div class="auth-modal-form__field">
                 <div class="ui-input ui-input_label" js-password-field="js-password-field">
                   <input type="password" name="password-rep" required="required"/>
-                  <label class="ui-input__float-label" for="password-rep">Повторите пароль
+                  <label class="ui-input__float-label" for="password-rep">Repeat password
                   </label>
                   <div class="ui-input__toggle-pass" icon-tgl-trg="icon-tgl-trg">
                     <svg icon-tgl-crt="icon-tgl-crt">
@@ -599,7 +599,7 @@
                 </div>
               </div>
               <div class="auth-modal-form__buttons">
-                <button class="button" type="submit">зарегистрироваться  </button>
+                <button class="button" type="submit">register  </button>
               </div>
             </form>
           </div>
@@ -608,17 +608,17 @@
           <div class="auth-modal__step-inner">
             <div class="h1">Спасибо за регистрацию!</div>
             <p class="h6">Заполните профиль и получите 1 000₽ скидку на первый заказ.</p><img src="img/head-banner-p.jpg">
-            <!-- ссылка на профиль--><a class="button" href="#">заполнить профиль</a>
+            <!-- ссылка на профиль--><a class="button" href="#">fill out profile</a>
           </div>
         </div>
         <div class="modal__test"> 
           <!-- УДАЛИТЬ ЭТОТ БЛОК В ПРОД-->
           <h5 open-step="auth">Вход</h5>
-          <h5 open-step="password-recovery">Восставновление пароля</h5>
-          <h5 open-step="password-recovery-sended">Сообщение на почте</h5>
-          <h5 open-step="code-check">Проверка кода</h5>
-          <h5 open-step="registration">Регистрация</h5>
-          <h5 open-step="greetings">Спасибо</h5>
+          <h5 open-step="password-recovery">Password recovery</h5>
+          <h5 open-step="password-recovery-sended">Message by mail</h5>
+          <h5 open-step="code-check">Checking the code</h5>
+          <h5 open-step="registration">Registration</h5>
+          <h5 open-step="greetings">Thank you</h5>
         </div>
       </div>
     </template>
