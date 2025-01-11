@@ -4,7 +4,7 @@
 - making responsive website for popular online shop in Russia
 
 ## This project is using:
-- html: for creating HTML layout 💡
+- html: creating HTML layout 💡
 - css: styling HTML elements 💡
-- js: for adding interactive elements, animations and user-friendly components 💡
-- ts: specifying the types of data being passed around within the code 💡
+- js: interactive elements, animations and user-friendly components 💡
+- ts: specifying the types 💡
