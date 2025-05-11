@@ -10,3 +10,13 @@
 - css: styling HTML elements 💡
 - js: interactive elements, animations and user-friendly components 💡
 - ts: specifying the types 💡
+
+## Pages:
+- index.html: https://dobuy-git.vercel.app/
+- product.html: https://dobuy-git.vercel.app/product.html
+- blog.html: https://dobuy-git.vercel.app/blog.html
+- blog-page.html: https://dobuy-git.vercel.app/blog-page.html
+- search.html: https://dobuy-git.vercel.app/search.html
+- catalog-first.html: https://dobuy-git.vercel.app/catalog-first.html
+- favourite.html: https://dobuy-git.vercel.app/favourite.html
+- ui.html: https://dobuy-git.vercel.app/ui.html
